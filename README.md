@@ -13,6 +13,7 @@ Clone or fork
 ```shell
 npm i
 npx hardhat init
+npx hardhat compile
 npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
